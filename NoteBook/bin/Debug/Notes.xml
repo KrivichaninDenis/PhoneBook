@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<XmlSave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Note>
+    <ListNumb />
+    <FirstName>zxc</FirstName>
+    <LastName>zxc</LastName>
+    <Patronymic>zxc</Patronymic>
+    <NoteDescription>zxcvbnmm,.</NoteDescription>
+  </Note>
+</XmlSave>
